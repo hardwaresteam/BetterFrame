@@ -6,9 +6,9 @@
 
 ---
 
-BetterFrame is a free, unofficial mod for the Valve Steam Frame. It runs on the headset and plugs into the Steam and SteamVR interface to redesign the UI and add the features the Frame is missing. Think Decky Loader, but built for VR.
+BetterFrame is a free, unofficial mod for the Valve Steam Frame. It runs natively on the headset and plugs onto the SteamVR interface to redesign the UI and add the features the Frame is missing, along with lots of quality-of-life additions and polishing.
 
-> **Status: early development.** Nothing is ready to install yet. Star or watch this repo to get notified when the first release is out.
+> **Status: early development.** Nothing is ready to install yet. Release is in Q4 2026, with more details to come. Star or watch this repo to get notified when the first release is out.
 
 ## Planned features
 
@@ -17,7 +17,7 @@ BetterFrame is a free, unofficial mod for the Valve Steam Frame. It runs on the 
 - VR and Steam settings in one place
 - Clearer choice between playing a game on the Frame and streaming it from your PC
 - Quitting games without the wait
-- Quick buttons for StreamXR and Framecorder
+- Quick buttons for built in StreamXR (Frame YouTube) and Framecorder (Frame Recorder)
 
 **Screens and windows**
 - Clearer control over how curved a screen is
@@ -38,10 +38,6 @@ BetterFrame is a free, unofficial mod for the Valve Steam Frame. It runs on the 
 - Sharper PC desktop screen when streaming (if possible)
 
 This list will change as development goes on. Have an idea or a complaint about the Frame's software? [Open an issue](../../issues).
-
-## Contributing
-
-Help is very welcome, especially from anyone who has worked with Steam's UI (CEF), SteamVR overlays, or hand tracking on the Frame. Open an issue or reach out on X.
 
 ## Disclaimer
 
