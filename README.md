@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="betterframe-logo-dark.png" alt="BetterFrame logo" width="420">
-</p>
-
-<p align="center"><b>Get more out of your Steam Frame.</b></p>
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/466ca420-c047-4949-b99a-795833bc3fcc" />
+Get more out of your Steam Frame.</b></p>
 
 ---
 
